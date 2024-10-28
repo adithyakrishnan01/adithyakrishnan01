@@ -1,5 +1,5 @@
-## Hi There!
-# Adithya Krishnan
+# Hi There!
+## Adithya Krishnan
 
 <!--
 **adithyakrishnan01/adithyakrishnan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
